@@ -1,0 +1,6 @@
+[package]
+name = "j-m-archer-programming-in-rust-01-warmup"
+version = "0.1.0"
+authors = ["Oliver Forral <intrepion@gmail.com>"]
+
+[dependencies]
